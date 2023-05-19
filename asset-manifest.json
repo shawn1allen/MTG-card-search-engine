@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MTG-card-search-engine/static/css/main.71e1d8b1.css",
-    "main.js": "/MTG-card-search-engine/static/js/main.17c3750e.js",
-    "static/media/mtg-logo.png": "/MTG-card-search-engine/static/media/mtg-logo.10ec85c8676ce9ffac1a.png",
-    "index.html": "/MTG-card-search-engine/index.html",
-    "main.71e1d8b1.css.map": "/MTG-card-search-engine/static/css/main.71e1d8b1.css.map",
-    "main.17c3750e.js.map": "/MTG-card-search-engine/static/js/main.17c3750e.js.map"
+    "main.css": "/static/css/main.71e1d8b1.css",
+    "main.js": "/static/js/main.ed0b3d03.js",
+    "static/media/mtg-logo.png": "/static/media/mtg-logo.10ec85c8676ce9ffac1a.png",
+    "index.html": "/index.html",
+    "main.71e1d8b1.css.map": "/static/css/main.71e1d8b1.css.map",
+    "main.ed0b3d03.js.map": "/static/js/main.ed0b3d03.js.map"
   },
   "entrypoints": [
     "static/css/main.71e1d8b1.css",
-    "static/js/main.17c3750e.js"
+    "static/js/main.ed0b3d03.js"
   ]
 }
