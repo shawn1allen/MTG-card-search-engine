@@ -1,6 +1,6 @@
 # Magic The Gathering Card Search Engine
 
-A react application
+https://mtgsearchengine.shawnallen.dev/
 
 ## Author
 
